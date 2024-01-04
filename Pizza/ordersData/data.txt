@@ -1,0 +1,15 @@
+Login: morv
+Phone: 772312123
+Orders:
+Product Name: Яблочный коктель
+Product Price: 12.44
+Product Image: k3.png
+
+Product Name: Банановый коктель
+Product Price: 15.44
+Product Image: k1.png
+
+Product Name: Товар 3
+Product Price: 39.99
+Product Image: 1.png
+
